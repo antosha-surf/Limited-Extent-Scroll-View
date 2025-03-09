@@ -79,7 +79,7 @@ class LimitedExtentViewport extends MultiChildRenderObjectWidget {
        ),
        super(children: slivers);
 
-  /// todo docs.
+  /// The maximum extent of the scroll view.
   final double maxExtent;
 
   /// {@macro flutter.rendering.Viewport.axisDirection}
@@ -193,6 +193,7 @@ class RenderLimitedExtentViewport
     addAll(children);
   }
 
+  /// The maximum extent of this viewport.
   double maxExtent;
 
   @override
