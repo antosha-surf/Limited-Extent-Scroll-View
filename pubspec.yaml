@@ -5,6 +5,7 @@ homepage: https://github.com/antosha-surf/Limited-Extent-Scroll-View
 
 environment:
   sdk: ^3.5.0
+  flutter: '>=3.0.0'
 
 dependencies:
   flutter:
