@@ -1,0 +1,14 @@
+name: limited_extent_scroll_view
+description: "A scroll view that shrink wraps content until given height then starts to scroll"
+version: 1.0.0
+homepage:
+
+environment:
+  sdk: ^3.5.0
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_lints: ^5.0.0
