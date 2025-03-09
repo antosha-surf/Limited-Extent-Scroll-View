@@ -1,7 +1,7 @@
 name: limited_extent_scroll_view
 description: "A scroll view that shrink wraps content until given height then starts to scroll"
 version: 1.0.0
-homepage:
+homepage: https://github.com/antosha-surf/Limited-Extent-Scroll-View
 
 environment:
   sdk: ^3.5.0
