@@ -19,7 +19,7 @@ and the Flutter guide for
 
 --- 
 
-
+<img src="https://raw.githubusercontent.com/antosha-surf/Limited-Extent-Scroll-View/main/media/demo.gif" width="300">
 
 - Accepts whatever slivers a `CustomScrollView` would accept.
 - Supports infinite scrolling.
